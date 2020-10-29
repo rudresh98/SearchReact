@@ -6,9 +6,9 @@ import Recipe from './Components/Recipe';
 
 
 const App = () => {
-  const API_ID = "bee20aa9";
+  const API_ID = "enter your api id";
   const API_KEYS =
-    "4d3627bbc90e6c77692230cb34b92d4d";
+    "enter you api key";
   
 
   const [recipes, setRecipes] = useState([]);
